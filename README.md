@@ -6,7 +6,7 @@ It was created as my first data analytics project after completing a Data Analyt
 
 ## Datasets Used  
 - **CDC WONDER Natality Data** → analyzed rates of low birthweight and preterm births by PFL vs. non-PFL states  
-- **CDC BRFSS (2011–2023)** → built a maternal health proxy comparing mental/physical health days (`MENTHLTH`, `POORHLTH`) in women aged 18–44 vs. women 45+  
+- **CDC BRFSS (2011–2023)** → built a maternal health proxy comparing mental/physical health days (`MENTHLTH`, `POORHLTH`) in women aged 18–44 vs. women 45+ (files were too large for upload)
 - **Bureau of Labor Statistics (BLS)** → added state-level policy and workforce context  
 - *(Future Work)* **PRAMS Survey** (maternal health & experiences) → not available for this project, but planned for a future version  
 
