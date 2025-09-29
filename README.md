@@ -24,6 +24,7 @@ It was created as my first data analytics project after completing a Data Analyt
 🔗 [View the Tableau Dashboard on Tableau Public](https://public.tableau.com/app/profile/ianah.rae.bantay/vizzes)  
 
 ![Dashboard Screenshot]
+
 <img width="638" height="755" alt="image" src="https://github.com/user-attachments/assets/9c78bbb9-d746-401a-8790-94ccb68b60e3" />
 <img width="633" height="572" alt="image" src="https://github.com/user-attachments/assets/68f65799-37b1-48d6-bdd0-1827d4c11469" />
 <img width="634" height="667" alt="image" src="https://github.com/user-attachments/assets/d316cb8f-9fda-4d64-bbbf-5964ed102307" />
